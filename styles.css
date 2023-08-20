@@ -1,0 +1,13 @@
+* {
+    font-family: 'Courier New', 'Verdana', 'Helvetica', sans-serif;
+    /* font-family: fantasy; */
+}
+
+a {
+    color: lightgreen;
+    background-color: black;  
+}
+
+h1 {
+    color: red;
+}
