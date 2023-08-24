@@ -1,4 +1,5 @@
 * {
+    /* border-style: border-box; */
     font-family: 'Courier New', 'Verdana', 'Helvetica', sans-serif;
     /* font-family: fantasy; */
 }
@@ -10,4 +11,27 @@ a {
 
 h1 {
     color: red;
+    text-align: center;
+}
+
+section.description {
+    border: 3px solid dodgerblue;
+    padding: 0 16px;
+    margin: 16px 48px 0;
+}
+
+section.ingredients {
+    border: 3px solid  greenyellow;
+    padding: 0 16px;
+    margin: 8px 48px;
+}
+
+section.steps {
+    border: 3px solid aquamarine;
+    padding: 0 16px;
+    margin: 8px 48px;
+}
+
+.topdiv {
+    text-align: center;
 }
